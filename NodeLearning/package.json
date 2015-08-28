@@ -1,0 +1,10 @@
+{
+  "name": "NodeLearning",
+  "version": "0.0.0",
+  "description": "NodeLearning",
+  "main": "server.js",
+  "author": {
+    "name": "v-jayao",
+    "email": ""
+  }
+}
